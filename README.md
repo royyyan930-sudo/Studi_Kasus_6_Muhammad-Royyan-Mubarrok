@@ -39,6 +39,6 @@ Berikut adalah penjelasan singkat mengenai fungsi-fungsi utama yang digunakan da
 ### 3. Data sudah Tersimpan Pas kembali ke menu 1
 <img width="482" height="377" alt="image" src="https://github.com/user-attachments/assets/c2557b0b-1e1e-4cbe-8adc-527e039fe721" />
 
-### 4. Bukti Data Tetap Tersimpan Setelah Program Dijalankan Kembali
+### 4. Bukti Data Tetap Tersimpan secara permanen Setelah Program Dijalankan Kembali
 <img width="899" height="326" alt="image" src="https://github.com/user-attachments/assets/5a6dafdd-9277-499f-bcbb-4fe991578222" />
 
