@@ -36,7 +36,7 @@ Berikut adalah penjelasan singkat mengenai fungsi-fungsi utama yang digunakan da
 ### 2. Tampilan Saat Menambahkan Data Baru
 <img width="458" height="176" alt="image" src="https://github.com/user-attachments/assets/24a5afc0-b129-4bd7-a054-1acda97c8ca6" />
 
-### 3. Data sudah Tersimpan Paskembali ke menu 1
+### 3. Data sudah Tersimpan Pas kembali ke menu 1
 <img width="482" height="377" alt="image" src="https://github.com/user-attachments/assets/c2557b0b-1e1e-4cbe-8adc-527e039fe721" />
 
 ### 4. Bukti Data Tetap Tersimpan Setelah Program Dijalankan Kembali
