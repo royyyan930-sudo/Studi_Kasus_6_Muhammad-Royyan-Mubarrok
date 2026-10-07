@@ -1,0 +1,20 @@
+[
+    {
+        "nama": "Khaidir",
+        "nim": "2509116015",
+        "mata_kuliah": "Dasar-Dasar Pemrograman",
+        "nilai": 85.5
+    },
+    {
+        "nama": "Royyan",
+        "nim": "2509116005",
+        "mata_kuliah": "Konsep Sistem Informasi",
+        "nilai": 90.0
+    },
+    {
+        "nama": "Dimas",
+        "nim": "2609116044",
+        "mata_kuliah": "CyberSecurity",
+        "nilai": 87.0
+    }
+]
